@@ -168,5 +168,5 @@ for (i=0;i<leaderboard.length;i++){
     break;
   }
 }
-log("Thank you for spending your time")
+log("Thank you for spending your time!")
 
